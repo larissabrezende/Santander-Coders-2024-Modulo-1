@@ -1,5 +1,5 @@
 ## **Santander Coders 2024**
-### **Este projeto marca a conclusão da primeira matéria do curso de Front-end da Santander Coders 2024. O objetivo principal é aplicar os conhecimentos adquiridos em HTML e CSS para criar um Layout responsivo usando HTML e CSS**
+### **Este projeto marca a conclusão da primeira matéria do curso de Front-end da Santander Coders 2024. O objetivo principal é aplicar os conhecimentos adquiridos em HTML e CSS para criar um Layout responsivo.**
 
 
 ### **O que são HTML e CSS?**
