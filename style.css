@@ -1272,11 +1272,11 @@ footer {
   }
 
   nav ul li a {
-    font-size: 16px; 
+    font-size: 13px; 
   }
 
   .inicioLink {
-    font-size: 16px !important; 
+    font-size: 14px !important; 
   }
 
   .navFrame {
@@ -1335,7 +1335,11 @@ footer {
     text-align: justify;
     margin-bottom: 10px;
     padding: 0 5%; 
-    letter-spacing: normal;
+  }
+
+  .bonusText p {
+    text-align: left;
+    text-indent: 0;
   }
 
   h2 {
