@@ -1199,15 +1199,6 @@ footer {
     overflow: hidden;
   }
 
-  .mainBanner img {
-    content: url("assets/versaomobile.png");
-    margin-left: 5%;
-    border-radius: 10px;
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-  }
-
   .bonusSection {
     margin-top: 20px;
     padding: 20px;
